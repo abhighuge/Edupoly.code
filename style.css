@@ -1,0 +1,26 @@
+
+
+    @import url('https://fonts.googleapis.com/css2?family=Sekuya&display=swap');
+
+
+          h4{
+
+               color: rgb(73, 78, 217);
+               font-family: 'Sekuya';
+          }
+
+
+             #d1{
+
+                  color: yellow;
+                  background-color: blue;
+             }
+            
+
+               .cls1{
+                        background-color: yellow;
+                        border: 5px solid black;
+                        box-shadow: 10 px 10 px 5px;
+               }
+
+          
